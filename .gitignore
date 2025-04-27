@@ -1,0 +1,4 @@
+bin/*
+obj/*
+ip-table.json
+settings.json
